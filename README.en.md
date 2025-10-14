@@ -22,9 +22,8 @@ This means you are free to use, copy, modify, and distribute this code, provided
 
 ### Credits
 
-ALF logo used in this project is not my property.  
-All rights belong to its respective creators/owners.  
-It is used here for illustrative purposes only.
+- ALF logo used in this project is not my property. All rights belong to its respective creators/owners. It is used here for illustrative purposes only.
+- Project got inspiration from [yourveganfallacyis.com](https://yourveganfallacyis.com/).
 
 #### Author
 
