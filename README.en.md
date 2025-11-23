@@ -17,8 +17,8 @@ The site is available live at: [https://racism.wtf](https://racism.wtf)
 
 ### License
 
-This project is released under the **MIT License**.  
-This means you are free to use, copy, modify, and distribute this code, provided that the author and license information remain included in the source files.
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (`CC BY-NC-SA 4.0`).  
+You are free to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) under the following terms: **Attribution** (you must give appropriate credit), **NonCommercial** (you may not use the material for commercial purposes), and **ShareAlike** (if you remix, transform, or build upon the material, you must distribute your contributions under the same license). See the full license text in the `LICENSE` file or at https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 ### Credits
 
